@@ -23,4 +23,4 @@
 
 
 </article>
-<p dir="auto"><a href="https://discord.gg/9njkkWmVVt" rel="nofollow"><img src="https://camo.githubusercontent.com/cdab4cfcc4972fdb59549c957c79271d07b6fc8e2a8a11394d8cac9b9130a0da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d434c49434b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d646973636f7264" alt="Active" data-canonical-src="https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&amp;logo=discord" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://discord.gg/9mDDNY9r" rel="nofollow"><img src="https://camo.githubusercontent.com/cdab4cfcc4972fdb59549c957c79271d07b6fc8e2a8a11394d8cac9b9130a0da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d434c49434b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d646973636f7264" alt="Active" data-canonical-src="https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&amp;logo=discord" style="max-width: 100%;"></a></p>
